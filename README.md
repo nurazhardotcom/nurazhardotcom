@@ -12,7 +12,7 @@ As a dedicated **Linux power-user (CachyOS/Arch)**, I focus on system automation
 - 🛡️ **PAM & Access Governance:** Experienced managing enterprise CyberArk PAM (PVWA/PSM) and RSA SecurID MFA within air-gapped government environments (under Cat-2 / Official Secrets Act guidelines).
 - ⚙️ **Systems Automation:** Building custom scripts and tools using **Clojure/Babashka**, **Python**, and **PowerShell** to automate system configurations, security audits, and deployment pipelines.
 - 🎓 **Continuous Learning:** 
-  - Specialist Diploma candidate in **Cyber Security Management** (Singapore Polytechnic, completed Infocomm Security & Network Essentials [Grade A] and Cyber Defence modules).
+  - Completed **PDC in Infocomm Security & Defences** (Specialist Diploma program in Cyber Security Management, Singapore Polytechnic - GPA 3.00, Grade 'A' in Infocomm Security & Network Essentials).
   - Professional Diploma in **Full Stack Web Development** (Lithan Academy, expected 2026).
 
 ---
@@ -77,7 +77,7 @@ As a dedicated **Linux power-user (CachyOS/Arch)**, I focus on system automation
 
 ### 🪙 Blockchain & Protocol Exploration
 *Auditing and analyzing core protocol clients and wallet implementations to study cryptographic security and peer-to-peer networking.*
-- **[bitcoin](https://github.com/nurazhardotcom/bitcoin):** Exploring the core C++ Bitcoin Core protocol implementation to research peer-to-peer consensus rules, block validation, and network security.
+- **[bitcoin](https://github.com/nurazhardotcom/bitcoin):** Exploring the core C++ Bitcoin SV (BSV) protocol implementation to research peer-to-peer consensus rules, block validation, and network security.
 - **[Bitcoin-Wallet](https://github.com/nurazhardotcom/Bitcoin-Wallet):** Auditing ElectrumSV (a Python-based light client for Bitcoin SV) to research secure cryptographic key storage, transaction signatures, and wallet-server synchronization.
 
 ### 📚 [lithan_assignments](https://github.com/nurazhardotcom/lithan_assignments)
