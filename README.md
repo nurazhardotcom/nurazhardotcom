@@ -87,13 +87,6 @@ As a dedicated **Linux power-user (CachyOS/Arch)**, I focus on system automation
 
 ---
 
-## 📈 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=nurazhardotcom&show_icons=true&theme=nord&count_private=true" alt="Nur Azhar's GitHub Stats" />
-</p>
-
----
 
 ## 📫 How to Reach Me
 - **LinkedIn:** [linkedin.com/in/nur-azhar](https://linkedin.com/in/nur-azhar)
