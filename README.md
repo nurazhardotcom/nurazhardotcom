@@ -83,6 +83,7 @@ As a dedicated **Linux power-user (CachyOS/Arch)**, I focus on system automation
 ### 🪙 Blockchain & Protocol Exploration
 *Auditing and analyzing core protocol clients and wallet implementations to study cryptographic security and peer-to-peer networking.*
 - **[bitcoin](https://github.com/nurazhardotcom/bitcoin):** Exploring the core C++ Bitcoin (the original peer to peer electronic cash system Protocol) implementation to research peer-to-peer consensus rules, block validation, and network security.
+- **[bsv-clj](https://github.com/nurazhardotcom/bsv-clj):** A Clojure toolkit for exploring Bitcoin's original v0.1 protocol — *"the core design was set in stone for the rest of its lifetime"* (Satoshi, 2010). Idiomatic JSON-RPC client, read-only wallet toolkit, and a Ring/Hiccup block explorer with dark-themed UI. Demonstrates the natural alignment between Bitcoin's immutable UTXO model and Clojure's functional, data-oriented design.
 - **[Bitcoin-Wallet](https://github.com/nurazhardotcom/Bitcoin-Wallet):** Auditing ElectrumSV (a Python-based lightweight wallet client for the Bitcoin peer to peer electronic cash system Protocol) to research secure cryptographic key storage, transaction signatures, and wallet-server synchronization.
 
 ---
