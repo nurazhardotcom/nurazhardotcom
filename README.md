@@ -46,8 +46,8 @@ As a dedicated **Linux power-user (CachyOS/Arch)**, I focus on system automation
       <h3>☕ Languages & Frameworks</h3>
       <ul>
         <li><b>Languages:</b> Python, Clojure / ClojureScript, Go, SQL, C++, JavaScript (ES6+)</li>
-        <li><b>Frameworks:</b> Babashka, Scittle, Reagent, Django, Node.js</li>
-        <li><b>Web Technologies:</b> Local-First AI, WebAssembly (WASM), RESTful APIs, Serverless</li>
+        <li><b>Frameworks:</b> Babashka, cljfx (JavaFX), Django, Node.js</li>
+        <li><b>Web Technologies:</b> Local-First AI, Native Desktop GUIs, RESTful APIs, Serverless</li>
       </ul>
     </td>
     <td valign="top" width="50%">
@@ -65,10 +65,10 @@ As a dedicated **Linux power-user (CachyOS/Arch)**, I focus on system automation
 
 ## 📂 Featured Projects
 
-### 🧠 [headhunter-agent](https://nurazhardotcom.github.io/headhunter-agent/)
+### 🧠 [headhunter-agent](https://github.com/nurazhardotcom/headhunter-agent)
 *A local-first, privacy-preserving Multi-Agent System (MAS) for job seekers.*
-- **Tech Stack:** ClojureScript (Scittle), Reagent, TailwindCSS, Typst (WASM), Gemini API.
-- **Key Features:** Deep candidate profiling, local Typst-to-PDF resume compilation via WebAssembly, and a 3-stage agentic pipeline for evaluating job descriptions and generating pre-interview memos entirely in the browser.
+- **Tech Stack:** Clojure, cljfx (JavaFX), Babashka, Typst, Gemini API.
+- **Key Features:** Deep candidate profiling, native desktop GUI console, local Typst-to-PDF resume compilation, and a 3-stage agentic pipeline for evaluating job descriptions and generating pre-interview strategy sheets.
 
 ### 🪐 [clojure.nurazhar.com](https://github.com/nurazhardotcom/clojure.nurazhar.com)
 *My digital garden and personal blog where I share scripts and thoughts on Lisp, automation, and system administration.*
