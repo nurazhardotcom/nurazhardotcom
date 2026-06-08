@@ -7,7 +7,7 @@
 ## 🚀 About Me
 I am a results-oriented **Platform Security & Forward Deployed Engineer** with over 7 years of professional stability in high-stakes, mission-critical sectors (including government and national defense collection environments). 
 
-As a dedicated **Linux power-user (CachyOS/Arch)**, I focus on system automation, containerization, and platform stability. I enjoy building automated workflows that replace manual administrative overhead with robust, logic-driven security controls. Currently, I am actively building **Local-First AI Agents** and exploring the intersection of ClojureScript, WebAssembly, and autonomous workflows.
+As a dedicated **Linux power-user (CachyOS/Arch)**, I focus on system automation, containerization, and platform stability. I enjoy building automated workflows that replace manual administrative overhead with robust, logic-driven security controls. Currently, I am actively building **Local-First AI Agents** and native desktop workflows using **Clojure & JavaFX (cljfx)**.
 
 - 🛡️ **PAM & Access Governance:** Experienced managing enterprise CyberArk PAM (PVWA/PSM) and RSA SecurID MFA within air-gapped government environments (under Cat-2 / Official Secrets Act guidelines).
 - ⚙️ **Systems Automation:** Building custom scripts and tools using **Clojure/Babashka**, **Python**, and **PowerShell** to automate system configurations, security audits, and deployment pipelines.
