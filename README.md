@@ -1,13 +1,13 @@
 # 👋 Hi, I'm Nur Azhar  
-**Infrastructure Automation & Platform Security Specialist**  
+**Infrastructure Security & Forward Deployed Engineer (FDE)**  
 *Singapore | career@nurazhar.com | [linkedin.com/in/nur-azhar](https://linkedin.com/in/nur-azhar) | [clojure.nurazhar.com](https://clojure.nurazhar.com)*
 
 ---
 
 ## 🚀 About Me
-I am a results-oriented **Platform Security & DevSecOps Specialist** with over 7 years of professional stability in high-stakes, mission-critical sectors (including government and national defense collection environments). 
+I am a results-oriented **Platform Security & Forward Deployed Engineer** with over 7 years of professional stability in high-stakes, mission-critical sectors (including government and national defense collection environments). 
 
-As a dedicated **Linux power-user (CachyOS/Arch)**, I focus on system automation, containerization, and platform stability. I enjoy building automated workflows that replace manual administrative overhead with robust, logic-driven security controls.
+As a dedicated **Linux power-user (CachyOS/Arch)**, I focus on system automation, containerization, and platform stability. I enjoy building automated workflows that replace manual administrative overhead with robust, logic-driven security controls. Currently, I am actively building **Local-First AI Agents** and exploring the intersection of ClojureScript, WebAssembly, and autonomous workflows.
 
 - 🛡️ **PAM & Access Governance:** Experienced managing enterprise CyberArk PAM (PVWA/PSM) and RSA SecurID MFA within air-gapped government environments (under Cat-2 / Official Secrets Act guidelines).
 - ⚙️ **Systems Automation:** Building custom scripts and tools using **Clojure/Babashka**, **Python**, and **PowerShell** to automate system configurations, security audits, and deployment pipelines.
@@ -45,9 +45,9 @@ As a dedicated **Linux power-user (CachyOS/Arch)**, I focus on system automation
     <td valign="top" width="50%">
       <h3>☕ Languages & Frameworks</h3>
       <ul>
-        <li><b>Languages:</b> Python, Clojure / Lisp, SQL, C++, JavaScript (ES6+), HTML5/CSS3</li>
-        <li><b>Frameworks:</b> Django, Node.js, Express</li>
-        <li><b>Web Technologies:</b> RESTful APIs, Serverless, responsive web design</li>
+        <li><b>Languages:</b> Python, Clojure / ClojureScript, Go, SQL, C++, JavaScript (ES6+)</li>
+        <li><b>Frameworks:</b> Babashka, Scittle, Reagent, Django, Node.js</li>
+        <li><b>Web Technologies:</b> Local-First AI, WebAssembly (WASM), RESTful APIs, Serverless</li>
       </ul>
     </td>
     <td valign="top" width="50%">
@@ -65,6 +65,11 @@ As a dedicated **Linux power-user (CachyOS/Arch)**, I focus on system automation
 
 ## 📂 Featured Projects
 
+### 🧠 [headhunter-agent](https://nurazhardotcom.github.io/headhunter-agent/)
+*A local-first, privacy-preserving Multi-Agent System (MAS) for job seekers.*
+- **Tech Stack:** ClojureScript (Scittle), Reagent, TailwindCSS, Typst (WASM), Gemini API.
+- **Key Features:** Deep candidate profiling, local Typst-to-PDF resume compilation via WebAssembly, and a 3-stage agentic pipeline for evaluating job descriptions and generating pre-interview memos entirely in the browser.
+
 ### 🪐 [clojure.nurazhar.com](https://github.com/nurazhardotcom/clojure.nurazhar.com)
 *My digital garden and personal blog where I share scripts and thoughts on Lisp, automation, and system administration.*
 - **Tech Stack:** Clojure, Babashka, Quickblog, Markdown, CSS.
@@ -80,13 +85,7 @@ As a dedicated **Linux power-user (CachyOS/Arch)**, I focus on system automation
 - **[bitcoin](https://github.com/nurazhardotcom/bitcoin):** Exploring the core C++ Bitcoin (the original peer to peer electronic cash system Protocol) implementation to research peer-to-peer consensus rules, block validation, and network security.
 - **[Bitcoin-Wallet](https://github.com/nurazhardotcom/Bitcoin-Wallet):** Auditing ElectrumSV (a Python-based lightweight wallet client for the Bitcoin peer to peer electronic cash system Protocol) to research secure cryptographic key storage, transaction signatures, and wallet-server synchronization.
 
-### 📚 [lithan_assignments](https://github.com/nurazhardotcom/lithan_assignments)
-*A collection of web development and programming assignments completed during my Professional Diploma.*
-- **Assignment 3 (Silent Library):** A full-featured Django web application incorporating user authentication, checkouts, administrator controls, database models, and responsive HTML/CSS designs.
-- Includes shell scripts and orchestration helpers for environment configuration and database sync checks.
-
 ---
-
 
 ## 📫 How to Reach Me
 - **LinkedIn:** [linkedin.com/in/nur-azhar](https://linkedin.com/in/nur-azhar)
