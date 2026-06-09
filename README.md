@@ -1,16 +1,16 @@
 # 👋 Hi, I'm Nur Azhar  
 **Infrastructure Security & Forward Deployed Engineer (FDE)**  
-*Singapore | career@nurazhar.com | [linkedin.com/in/nur-azhar](https://linkedin.com/in/nur-azhar) | [clojure.nurazhar.com](https://clojure.nurazhar.com)*
+*Singapore | career@nurazhar.com | [linkedin.com/in/nur-azhar](https://linkedin.com/in/nur-azhar)*
 
 ---
 
 ## 🚀 About Me
 I am a results-oriented **Platform Security & Forward Deployed Engineer** with over 7 years of professional stability in high-stakes, mission-critical sectors (including government and national defense collection environments). 
 
-As a dedicated **Linux power-user (CachyOS/Arch)**, I focus on system automation, containerization, and platform stability. I enjoy building automated workflows that replace manual administrative overhead with robust, logic-driven security controls. Currently, I am actively building **Local-First AI Agents** and native desktop workflows using **Clojure & JavaFX (cljfx)**.
+As a dedicated **Linux power-user (CachyOS/Arch)**, I focus on system automation, containerization, and platform stability. I enjoy building automated workflows that replace manual administrative overhead with robust, logic-driven security controls. Currently, I am actively building **Local-First AI Agents** using **Rust** and **Python**.
 
 - 🛡️ **PAM & Access Governance:** Experienced managing enterprise CyberArk PAM (PVWA/PSM) and RSA SecurID MFA within air-gapped government environments (under Cat-2 / Official Secrets Act guidelines).
-- ⚙️ **Systems Automation:** Building custom scripts and tools using **Clojure/Babashka**, **Python**, and **PowerShell** to automate system configurations, security audits, and deployment pipelines.
+- ⚙️ **Systems Automation:** Building custom scripts and tools using **Rust**, **Python**, and **PowerShell** to automate system configurations, security audits, and deployment pipelines.
 - 🎓 **Continuous Learning:** 
   - Completed **PDC in Infocomm Security & Defences** (Specialist Diploma program in Cyber Security Management, Singapore Polytechnic - GPA 3.00, Grade 'A' in Infocomm Security & Network Essentials).
   - Professional Diploma in **Full Stack Web Development** (Lithan Academy, expected 2026).
@@ -36,7 +36,7 @@ As a dedicated **Linux power-user (CachyOS/Arch)**, I focus on system automation
       <ul>
         <li><b>Operating Systems:</b> Linux (Arch, CachyOS, Debian), Windows Server</li>
         <li><b>Infrastructure:</b> VMware, GCP, Cloudflare Serverless (Cloud Run, Load Balancers)</li>
-        <li><b>Automation & IaC:</b> Babashka, Bash, PowerShell scripting</li>
+        <li><b>Automation & IaC:</b> Bash, PowerShell scripting</li>
         <li><b>Databases:</b> SQL, PostgreSQL, SQLite, database normalization & auditing (IBM Guardium)</li>
       </ul>
     </td>
@@ -45,9 +45,9 @@ As a dedicated **Linux power-user (CachyOS/Arch)**, I focus on system automation
     <td valign="top" width="50%">
       <h3>☕ Languages & Frameworks</h3>
       <ul>
-        <li><b>Languages:</b> Python, Clojure / ClojureScript, Go, SQL, C++, JavaScript (ES6+)</li>
-        <li><b>Frameworks:</b> Babashka, cljfx (JavaFX), Django, Node.js</li>
-        <li><b>Web Technologies:</b> Local-First AI, Native Desktop GUIs, RESTful APIs, Serverless</li>
+        <li><b>Languages:</b> Python, Rust, Go, SQL, C++, JavaScript (ES6+)</li>
+        <li><b>Frameworks:</b> Django, Node.js, Actix Web</li>
+        <li><b>Web Technologies:</b> Local-First AI, RESTful APIs, Serverless</li>
       </ul>
     </td>
     <td valign="top" width="50%">
@@ -67,13 +67,10 @@ As a dedicated **Linux power-user (CachyOS/Arch)**, I focus on system automation
 
 ### 🧠 [headhunter-agent](https://github.com/nurazhardotcom/headhunter-agent)
 *A local-first, privacy-preserving Multi-Agent System (MAS) for job seekers.*
-- **Tech Stack:** Clojure, cljfx (JavaFX), Babashka, Typst, Gemini API.
-- **Key Features:** Deep candidate profiling, native desktop GUI console, local Typst-to-PDF resume compilation, and a 3-stage agentic pipeline for evaluating job descriptions and generating pre-interview strategy sheets.
+- **Tech Stack:** Python, Typst, Gemini API.
+- **Key Features:** Deep candidate profiling, local Typst-to-PDF resume compilation, and a 3-stage agentic pipeline for evaluating job descriptions and generating pre-interview strategy sheets.
 
-### 🪐 [clojure.nurazhar.com](https://github.com/nurazhardotcom/clojure.nurazhar.com)
-*My digital garden and personal blog where I share scripts and thoughts on Lisp, automation, and system administration.*
-- **Tech Stack:** Clojure, Babashka, Quickblog, Markdown, CSS.
-- **Key Features:** Compiled via Babashka natively, live preview dev server, fully automated CI/CD pipeline via GitHub Actions deploying to GitHub Pages under a custom domain registry.
+
 
 ### 📈 [sol-de-tracker](https://github.com/nurazhardotcom/sol-de-tracker)
 *A Data Engineering pipeline that tracks Solana market valuations using public APIs and stores structured metrics.*
@@ -91,4 +88,4 @@ As a dedicated **Linux power-user (CachyOS/Arch)**, I focus on system automation
 ## 📫 How to Reach Me
 - **LinkedIn:** [linkedin.com/in/nur-azhar](https://linkedin.com/in/nur-azhar)
 - **Email:** career@nurazhar.com
-- **Website/Blog:** [clojure.nurazhar.com](https://clojure.nurazhar.com)
+- **Website/Blog:** [nurazhar.com](https://nurazhar.com)
