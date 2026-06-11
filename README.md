@@ -22,7 +22,7 @@ In the era of autonomous software, I treat AI agents as untrusted processes. I a
       <ul>
         <li><b>Privileged Access Management:</b> CyberArk PVWA/PSM design, access policies</li>
         <li><b>Network Access Control:</b> Aruba ClearPass (NAC), Cisco VPN gateway policies</li>
-        <li><b>Identity Providers:</b> Microsoft Entra ID, RSA SecurID MFA</li>
+        <li><b>Identity & Credentials:</b> Microsoft Entra ID, RSA SecurID, Phishing-resistant MFA (Passkeys / FIDO2)</li>
         <li><b>Air-Gapped Systems:</b> Enclave isolation, secure data transit</li>
       </ul>
     </td>
