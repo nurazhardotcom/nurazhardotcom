@@ -9,7 +9,7 @@
 
 I bridge the gap between autonomous AI agents and low-level, high-security infrastructure. My engineering foundation is built on **7+ years of mission-critical depth** managing Privileged Access Management (PAM), CyberArk (PVWA/PSM), and air-gapped system governance within **National Defense Heritage & Mission-Critical Infrastructure** environments (Cat-2 / Official Secrets Act). 
 
-In the era of autonomous software, I treat AI agents as untrusted processes. I apply zero-trust primitives, deterministic data contracts, and decentralized identity protocols (including Bitcoin-native UTXO architectures) to secure agentic runtimes, prevent prompt injection/escape, and enforce strict execution boundaries.
+In the era of autonomous software, I treat AI agents as untrusted processes. I apply hardened network isolation concepts, deterministic data contracts, and decentralized identity protocols (including Bitcoin-native UTXO architectures) to secure agentic runtimes, prevent prompt injection/escape, and enforce strict execution boundaries.
 
 ---
 
@@ -18,12 +18,12 @@ In the era of autonomous software, I treat AI agents as untrusted processes. I a
 <table>
   <tr>
     <td valign="top" width="50%">
-      <h3>🔐 Identity, Trust & Security</h3>
+      <h3>🔐 Identity & Access Governance</h3>
       <ul>
         <li><b>Privileged Access Management:</b> CyberArk PVWA/PSM design, access policies</li>
-        <li><b>Identity & Access Governance:</b> IAM Strategy, Microsoft Entra ID, MFA</li>
-        <li><b>Trust Architectures:</b> Zero-Trust design, Air-gapped environments</li>
-        <li><b>Compliance & Risk:</b> ISO 27001, Cyber Trust Mark Tier 3, DLP policies</li>
+        <li><b>Network Access Control:</b> Aruba ClearPass (NAC), Cisco VPN gateway policies</li>
+        <li><b>Identity Providers:</b> Microsoft Entra ID, RSA SecurID MFA</li>
+        <li><b>Air-Gapped Systems:</b> Enclave isolation, secure data transit</li>
       </ul>
     </td>
     <td valign="top" width="50%">
