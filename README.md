@@ -1,61 +1,38 @@
 # 👋 Hi, I'm Nur Azhar  
-**Infrastructure Security & Forward Deployed Engineer (FDE)**  
-*Singapore | career@nurazhar.com | [linkedin.com/in/nur-azhar](https://linkedin.com/in/nur-azhar)*
+**High-Ground Infrastructure & Agentic AI Architect**  
+*Singapore Citizen | H-1B1 Visa Eligible (Frictionless US Placement)*  
+*Singapore | career@nurazhar.com | [linkedin.com/in/nur-azhar](https://linkedin.com/in/nur-azhar)*  
 
 ---
 
-## 🚀 About Me
-I am a results-oriented **Platform Security & Forward Deployed Engineer** with over 7 years of professional stability in high-stakes, mission-critical sectors (including government and national defense collection environments). 
+## 🚀 The Deterministic Anchor
 
-As a dedicated **Linux power-user (CachyOS/Arch)**, I focus on system automation, containerization, and platform stability. I enjoy building automated workflows that replace manual administrative overhead with robust, logic-driven security controls. Currently, I am actively building **Local-First AI Agents** using **Rust** and **Python**.
+I bridge the gap between autonomous AI agents and low-level, high-security infrastructure. My engineering foundation is built on **7+ years of mission-critical depth** managing Privileged Access Management (PAM), CyberArk (PVWA/PSM), and air-gapped system governance within **National Defense Heritage & Mission-Critical Infrastructure** environments (Cat-2 / Official Secrets Act). 
 
-- 🛡️ **PAM & Access Governance:** Experienced managing enterprise CyberArk PAM (PVWA/PSM) and RSA SecurID MFA within air-gapped government environments (under Cat-2 / Official Secrets Act guidelines).
-- ⚙️ **Systems Automation:** Building custom scripts and tools using **Rust**, **Python**, and **PowerShell** to automate system configurations, security audits, and deployment pipelines.
-- 🎓 **Continuous Learning:** 
-  - Completed **PDC in Infocomm Security & Defences** (Specialist Diploma program in Cyber Security Management, Singapore Polytechnic - GPA 3.00, Grade 'A' in Infocomm Security & Network Essentials).
-  - Professional Diploma in **Full Stack Web Development** (Lithan Academy, expected 2026).
+In the era of autonomous software, I treat AI agents as untrusted processes. I apply zero-trust primitives, deterministic data contracts, and decentralized identity protocols (including Bitcoin-native UTXO architectures) to secure agentic runtimes, prevent prompt injection/escape, and enforce strict execution boundaries.
 
 ---
 
-## 🛠️ Technical Stack & Tooling
+## 🛠️ Technical Stack & Architecture
 
 <table>
   <tr>
     <td valign="top" width="50%">
-      <h3>🔐 Security & Access Governance</h3>
+      <h3>🔐 Identity, Trust & Security</h3>
       <ul>
-        <li><b>Privileged Access Management:</b> CyberArk PVWA/PSM, IAM Strategy</li>
-        <li><b>Identity Providers:</b> Microsoft Entra ID (Azure AD), MFA, Conditional Access</li>
-        <li><b>Vulnerability Management:</b> Tenable.sc / Nessus</li>
-        <li><b>Data Loss Prevention (DLP):</b> Microsoft Purview DLP, compliance frameworks (ISO 27001, Cyber Trust Mark Tier 3)</li>
-        <li><b>Email Security:</b> Symantec MessageLabs Policy Engine</li>
+        <li><b>Privileged Access Management:</b> CyberArk PVWA/PSM design, access policies</li>
+        <li><b>Identity & Access Governance:</b> IAM Strategy, Microsoft Entra ID, MFA</li>
+        <li><b>Trust Architectures:</b> Zero-Trust design, Air-gapped environments</li>
+        <li><b>Compliance & Risk:</b> ISO 27001, Cyber Trust Mark Tier 3, DLP policies</li>
       </ul>
     </td>
     <td valign="top" width="50%">
-      <h3>💻 Systems & Infrastructure</h3>
+      <h3>⚙️ Systems & Agentic Orchestration</h3>
       <ul>
-        <li><b>Operating Systems:</b> Linux (Arch, CachyOS, Debian), Windows Server</li>
-        <li><b>Infrastructure:</b> VMware, GCP, Cloudflare Serverless (Cloud Run, Load Balancers)</li>
-        <li><b>Automation & IaC:</b> Bash, PowerShell scripting</li>
-        <li><b>Databases:</b> SQL, PostgreSQL, SQLite, database normalization & auditing (IBM Guardium)</li>
-      </ul>
-    </td>
-  </tr>
-  <tr>
-    <td valign="top" width="50%">
-      <h3>☕ Languages & Frameworks</h3>
-      <ul>
-        <li><b>Languages:</b> Python, Rust, Go, SQL, C++, JavaScript (ES6+)</li>
-        <li><b>Frameworks:</b> Django, Node.js, Actix Web</li>
-        <li><b>Web Technologies:</b> Local-First AI, RESTful APIs, Serverless</li>
-      </ul>
-    </td>
-    <td valign="top" width="50%">
-      <h3>🔧 Developer Tools & Philosophy</h3>
-      <ul>
-        <li><b>Version Control:</b> Git, GitHub Actions (CI/CD)</li>
-        <li><b>Developer Workflow:</b> Visual Studio Code, Neovim, Fish Shell</li>
-        <li><b>Design Principles:</b> DRY, modular scripting, secure-by-design, data contracts</li>
+        <li><b>Agentic AI:</b> Local-first Multi-Agent Systems, Context Engineering</li>
+        <li><b>Core Languages:</b> Python, Rust, Go, SQL, Clojure, C++</li>
+        <li><b>Infrastructure & Cloud:</b> Linux (Arch, CachyOS, Debian), GCP, Cloudflare Serverless</li>
+        <li><b>Databases & Auditing:</b> PostgreSQL, SQLite (normalization & guardrails)</li>
       </ul>
     </td>
   </tr>
@@ -63,29 +40,32 @@ As a dedicated **Linux power-user (CachyOS/Arch)**, I focus on system automation
 
 ---
 
-## 📂 Featured Projects
+## 📂 Selected Systems & Frameworks
 
-### 🧠 [headhunter-agent](https://github.com/nurazhardotcom/headhunter-agent)
-*A local-first, privacy-preserving Multi-Agent System (MAS) for job seekers.*
-- **Tech Stack:** Python, Typst, Gemini API.
-- **Key Features:** Deep candidate profiling, local Typst-to-PDF resume compilation, and a 3-stage agentic pipeline for evaluating job descriptions and generating pre-interview strategy sheets.
-
-
+### 🧠 [Local-First Multi-Agent Orchestration & Context Engineering Framework](https://github.com/nurazhardotcom/headhunter-agent)
+*A privacy-preserving, local-first Multi-Agent System (MAS) built to orchestrate unstructured data processing and compilation.*
+- **Tech Stack:** Python, Rust (native bindings for high-performance token/context manipulation), Typst, Gemini API.
+- **Architectural Highlights:**
+  - **Deterministic Data Contracts:** Hard JSON schemas ensuring state transitions between agents remain predictable.
+  - **Privacy-by-Design:** Orchestrates sensitive personal context locally without raw data leaking to third-party endpoints.
+  - **Pipeline Synthesis:** 3-stage agentic engine executing profile tokenization, typst resume compilation, and pre-interview strategic mapping.
 
 ### 📈 [sol-de-tracker](https://github.com/nurazhardotcom/sol-de-tracker)
-*A Data Engineering pipeline that tracks Solana market valuations using public APIs and stores structured metrics.*
-- **Tech Stack:** Python, SQLite/PostgreSQL, Public APIs, `cron` / automation tools.
-- **Key Features:** Scheduled extraction, database schema design with SQL normalization, detailed error logs, and transactional reliability.
+*A structured Data Engineering pipeline designed for real-time extraction and transactional reliability.*
+- **Tech Stack:** Python, SQLite/PostgreSQL, Public APIs, automated workflows.
+- **Architectural Highlights:** 
+  - **Data Integrity:** Strict normalization schemas to ensure zero-loss storage of volatile market data.
+  - **Resiliency:** Programmatic recovery, transactional boundary enforcement, and granular telemetry.
 
-### 🪙 Blockchain & Protocol Exploration
-*Auditing and analyzing core protocol clients and wallet implementations to study cryptographic security and peer-to-peer networking.*
-- **[bitcoin](https://github.com/nurazhardotcom/bitcoin):** Exploring the core C++ Bitcoin (the original peer to peer electronic cash system Protocol) implementation to research peer-to-peer consensus rules, block validation, and network security.
-- **[bsv-clj](https://github.com/nurazhardotcom/bsv-clj):** A Clojure toolkit for exploring Bitcoin's original v0.1 protocol — *"the core design was set in stone for the rest of its lifetime"* (Satoshi, 2010). Idiomatic JSON-RPC client, read-only wallet toolkit, and a Ring/Hiccup block explorer with dark-themed UI. Demonstrates the natural alignment between Bitcoin's immutable UTXO model and Clojure's functional, data-oriented design.
-- **[Bitcoin-Wallet](https://github.com/nurazhardotcom/Bitcoin-Wallet):** Auditing ElectrumSV (a Python-based lightweight wallet client for the Bitcoin peer to peer electronic cash system Protocol) to research secure cryptographic key storage, transaction signatures, and wallet-server synchronization.
+### 🪙 Decentralized Identity & Protocol Security Research
+*Auditing core consensus engines and peer-to-peer designs to architect decentralized identity primitives.*
+- **[bsv-clj](https://github.com/nurazhardotcom/bsv-clj):** A Clojure toolkit exploring the immutable UTXO model. Built an idiomatic JSON-RPC client, read-only wallet module, and a Ring/Hiccup explorer. Illustrates the synergy between immutable ledger state and functional, data-oriented language design.
+- **[bitcoin](https://github.com/nurazhardotcom/bitcoin):** Researching original P2P consensus, transaction verification scripts, and memory-safe validation rules in the core C++ codebase.
+- **[Bitcoin-Wallet](https://github.com/nurazhardotcom/Bitcoin-Wallet):** Security audit of lightweight client structures (ElectrumSV) targeting cryptographic key isolation, transaction signatures, and server synchronization models.
 
 ---
 
-## 📫 How to Reach Me
+## 📫 Contact & Verification
 - **LinkedIn:** [linkedin.com/in/nur-azhar](https://linkedin.com/in/nur-azhar)
 - **Email:** career@nurazhar.com
-- **Website/Blog:** [nurazhar.com](https://nurazhar.com)
+- **Core Node:** [nurazhar.com](https://nurazhar.com)
