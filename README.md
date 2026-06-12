@@ -1,5 +1,6 @@
 # 👋 Hi, I'm Nur Azhar  
 **High-Ground Infrastructure & Agentic AI Architect**  
+*Immediate Placement Target: Forward-Deployed / Solutions Engineering | Available Aug 3, 2026*  
 *Singapore Citizen | H-1B1 Visa Eligible (Frictionless US Placement)*  
 *Singapore | career@nurazhar.com | [linkedin.com/in/nur-azhar](https://linkedin.com/in/nur-azhar)*  
 
@@ -7,7 +8,7 @@
 
 ## 🚀 The Deterministic Anchor
 
-I bridge the gap between autonomous AI agents and low-level, high-security infrastructure. My engineering foundation is built on **7+ years of mission-critical depth** managing Privileged Access Management (PAM), CyberArk (PVWA/PSM), and air-gapped system governance within **National Defense Heritage & Mission-Critical Infrastructure** environments (Cat-2 / Official Secrets Act). 
+I bridge the gap between autonomous AI agents, modern web architectures, and low-level, high-security infrastructure. My engineering foundation combines **7+ years of mission-critical depth** managing Privileged Access Management (PAM), CyberArk (PVWA/PSM), and air-gapped system governance within **National Defense Heritage & Mission-Critical Infrastructure** environments (Cat-2 / Official Secrets Act), reinforced by recent **Full Stack Web Development specialization at Lithan Academy (graduating late July 2026)**.
 
 In the era of autonomous software, I treat AI agents as untrusted processes. I apply hardened network isolation concepts, deterministic data contracts, and decentralized identity protocols (including Bitcoin-native UTXO architectures) to secure agentic runtimes, prevent prompt injection/escape, and enforce strict execution boundaries.
 
@@ -30,6 +31,7 @@ In the era of autonomous software, I treat AI agents as untrusted processes. I a
       <h3>⚙️ Systems & Agentic Orchestration</h3>
       <ul>
         <li><b>Agentic AI:</b> Local-first Multi-Agent Systems, Context Engineering</li>
+        <li><b>Web Stack:</b> React, Next.js, Node.js, Express, HTML5/CSS3, JavaScript (ES6+)</li>
         <li><b>Core Languages:</b> Python, Rust, Go, SQL, Clojure, C++</li>
         <li><b>Infrastructure & Cloud:</b> Linux (Arch, CachyOS, Debian), GCP, Cloudflare Serverless</li>
         <li><b>Databases & Auditing:</b> PostgreSQL, SQLite (normalization & guardrails)</li>
