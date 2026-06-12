@@ -4,6 +4,48 @@
 *Singapore Citizen | H-1B1 Visa Eligible (Frictionless US Placement)*  
 *Singapore | career@nurazhar.com | [linkedin.com/in/nur-azhar](https://linkedin.com/in/nur-azhar)*  
 
+```mermaid
+graph TD
+    classDef security fill:#1e1e2e,stroke:#f38ba8,stroke-width:2px,color:#cdd6f4;
+    classDef web fill:#1e1e2e,stroke:#89b4fa,stroke-width:2px,color:#cdd6f4;
+    classDef agentic fill:#1e1e2e,stroke:#a6e3a1,stroke-width:2px,color:#cdd6f4;
+    classDef core fill:#11111b,stroke:#f9e2af,stroke-width:3px,color:#cdd6f4;
+
+    A[Security & Access Governance]:::security --> D(Secure Agentic Architectures):::core
+    B[Modern Full-Stack Engineering]:::web --> D
+    C[Agentic AI & Context Engineering]:::agentic --> D
+
+    subgraph Security Depth
+        A1[CyberArk PAM / PVWA / PSM]:::security
+        A2[Air-Gapped Network Enclaves]:::security
+        A3[Identity Providers & MFA]:::security
+    end
+
+    subgraph Full-Stack Engine
+        B1[Django / React / Bootstrap]:::web
+        B2[MySQL / SQL Normalization]:::web
+        B3[Agile SDLC Frameworks]:::web
+    end
+
+    subgraph Agentic Innovation
+        C1[Deterministic JSON Contracts]:::agentic
+        C2[Local Multi-Agent Runtimes]:::agentic
+        C3[Context Window Optimization]:::agentic
+    end
+
+    A1 -.-> A
+    A2 -.-> A
+    A3 -.-> A
+
+    B1 -.-> B
+    B2 -.-> B
+    B3 -.-> B
+
+    C1 -.-> C
+    C2 -.-> C
+    C3 -.-> C
+```
+
 ---
 
 ## 🚀 The Deterministic Anchor
@@ -31,14 +73,33 @@ In the era of autonomous software, I treat AI agents as untrusted processes. I a
       <h3>⚙️ Systems & Agentic Orchestration</h3>
       <ul>
         <li><b>Agentic AI:</b> Local-first Multi-Agent Systems, Context Engineering</li>
-        <li><b>Web Stack:</b> React, Next.js, Node.js, Express, HTML5/CSS3, JavaScript (ES6+)</li>
+        <li><b>Web Stack:</b> React, Django, Bootstrap, HTML5/CSS3, JavaScript (ES6+), jQuery</li>
         <li><b>Core Languages:</b> Python, Rust, Go, SQL, Clojure, C++</li>
         <li><b>Infrastructure & Cloud:</b> Linux (Arch, CachyOS, Debian), GCP, Cloudflare Serverless</li>
-        <li><b>Databases & Auditing:</b> PostgreSQL, SQLite (normalization & guardrails)</li>
+        <li><b>Databases & Auditing:</b> MySQL, PostgreSQL, SQLite (normalization & guardrails)</li>
       </ul>
     </td>
   </tr>
 </table>
+
+---
+
+## 🔄 Agent-Augmented SDLC Methodology
+
+I apply a hybrid, security-first software development life cycle tailored for speed and high robustness:
+
+*   **Phase 1: Conceptual Design & Data Modeling**
+    *   Developing Entity Relationship Diagrams (ERDs) and normalizing database schemas (MySQL/PostgreSQL) to avoid data redundancy and write bottlenecks.
+    *   Threat modeling system entrypoints and user flow scenarios using UML schemas.
+*   **Phase 2: High-Speed Agentic Synthesis**
+    *   Utilizing advanced agentic IDE workflows (Cursor, custom CLI agents) to synthesize clean, functional modules (Django backends, React frontends) at high bandwidth.
+    *   Drafting comprehensive unit and integration tests concurrently with code creation.
+*   **Phase 3: Security Hardening & Isolation**
+    *   Applying OWASP Top-10 defensive coding practices to web interfaces and APIs.
+    *   Securing agent runtimes by parsing API inputs through strict, deterministic JSON-schema contract boundaries.
+*   **Phase 4: Orchestration & Deployment**
+    *   Packaging web services into lightweight Docker containers or managing virtual machines for reliable multi-environment staging.
+    *   Establishing secure audit telemetry, database migrations, and operational backups.
 
 ---
 
