@@ -120,6 +120,14 @@ I apply a hybrid, security-first software development life cycle tailored for sp
   - **Data Integrity:** Strict normalization schemas to ensure zero-loss storage of volatile market data.
   - **Resiliency:** Programmatic recovery, transactional boundary enforcement, and granular telemetry.
 
+### 🛡️ [aur-audit](https://github.com/nurazhardotcom/aur-audit)
+*A static analysis security auditing tool designed to inspect AUR PKGBUILD and install scripts for indicators of compromise (IoC) and system manipulation hooks.*
+- **Tech Stack:** Clojure, Babashka, shell integration.
+- **Architectural Highlights:**
+  - **Zero-Dependency Scripting:** Executed via Babashka with near-instant startup, suitable for integration into CLI package update hooks (`paru`).
+  - **Dynamic Rule Engine:** Uses deterministic regex heuristics to detect outbound sockets, base64 obfuscation, dynamic evaluation, and system persistence.
+  - **Active Defense:** Built in response to the June 2026 AUR malicious update incident to prevent unsafe code execution on Arch-based systems.
+
 ### 🪙 Decentralized Identity & Protocol Security Research
 *Auditing core consensus engines and peer-to-peer designs to architect decentralized identity primitives.*
 - **[bsv-clj](https://github.com/nurazhardotcom/bsv-clj):** A Clojure toolkit exploring the immutable UTXO model. Built an idiomatic JSON-RPC client, read-only wallet module, and a Ring/Hiccup explorer. Illustrates the synergy between immutable ledger state and functional, data-oriented language design.
