@@ -115,12 +115,12 @@ I apply a hybrid, security-first software development life cycle tailored for sp
 
 ### 🎵 [lagu-lagu](https://github.com/nurazhardotcom/lagu-lagu)
 *A "No-Backend" stateless payout registry and direct settlement engine for independent musicians in Southeast Asia.*
-- **Tech Stack:** HTML5, HTMX, Neon Serverless Postgres (PL/pgSQL triggers, RLS), Tazapay API, BSV Notary Ledger.
+- **Tech Stack:** HTML5, HTMX, GCP Cloud Function (Node.js), Neon Serverless Postgres (PL/pgSQL triggers, RLS), Tazapay API, BSV Notary Ledger.
 - **Architectural Highlights:**
-  - **Zero-Server / Zero-Code Backend:** Deletes custom application middleware entirely, routing client-side HTMX queries directly to serverless Neon Postgres/PostgREST API endpoints.
-  - **Declarative Database Security:** Enforces authentication and authorization natively at the database layer using Postgres Row-Level Security (RLS) policies.
-  - **Stateless Notary Commits:** Commits Merkle root payment proofs to a public ledger (BSV) for $0.0001 per hash to establish clean title and block regional CMO suspense claims.
-  - **Low-Toll E-Wallet Clearing:** Routes micro-payments from local e-wallets (GCash, PayNow) to artist accounts instantly via Tazapay, bypassing high credit card minimum fees ($0.30).
+  - **Stateless Cloud Proxy:** Deletes heavy application server deployments, using a stateless GCP Cloud Function proxy to secure DB connections, handle external webhooks, and serve dynamic HTML templates.
+  - **Declarative Database Rules:** Automatically executes the **80/20 royalty split** natively in Postgres via database triggers upon payment insertion.
+  - **Stateless Notary Commits:** Commits Merkle root payment proofs to a public ledger (BSV) for $0.0001 per hash to establish clean title and shield artists from collective licensing (CMO) claims.
+  - **Low-Toll E-Wallet Clearing:** Routes micro-payments from local e-wallets (PayNow, GCash) to artist wallets instantly via Tazapay, bypassing high credit card fees.
 
 ### 📈 [sol-de-tracker](https://github.com/nurazhardotcom/sol-de-tracker)
 *A structured Data Engineering pipeline designed for real-time extraction and transactional reliability.*
