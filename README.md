@@ -2,7 +2,7 @@
 **High-Ground Infrastructure & Agentic AI Architect**  
 *Immediate Placement Target: Forward-Deployed / Solutions Engineering | Available Aug 3, 2026*  
 *Singapore Citizen | H-1B1 Visa Eligible (Frictionless US Placement)*  
-*Singapore | career@nurazhar.com | [linkedin.com/in/nur-azhar](https://linkedin.com/in/nur-azhar)*  
+*Singapore | career@nurazhar.com | [blog.nurazhar.com](https://blog.nurazhar.com) | [linkedin.com/in/nur-azhar](https://linkedin.com/in/nur-azhar)*  
 
 ```mermaid
 graph TD
@@ -149,3 +149,4 @@ I apply a hybrid, security-first software development life cycle tailored for sp
 - **LinkedIn:** [linkedin.com/in/nur-azhar](https://linkedin.com/in/nur-azhar)
 - **Email:** career@nurazhar.com
 - **Core Node:** [nurazhar.com](https://nurazhar.com)
+- **Digital Garden (Blog):** [blog.nurazhar.com](https://blog.nurazhar.com)
