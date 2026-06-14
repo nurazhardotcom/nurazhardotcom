@@ -134,8 +134,8 @@ I apply a hybrid, security-first software development life cycle tailored for sp
 - **Tech Stack:** Clojure, Babashka, shell integration.
 - **Architectural Highlights:**
   - **Zero-Dependency Scripting:** Executed via Babashka with near-instant startup, suitable for integration into CLI package update hooks (`paru`).
-  - **Dynamic Rule Engine:** Uses deterministic regex heuristics to detect outbound sockets, base64 obfuscation, dynamic evaluation, and system persistence.
-  - **Active Defense:** Built in response to the June 2026 AUR malicious update incident to prevent unsafe code execution on Arch-based systems.
+  - **Threat Intelligence Monitor (`aur-monitor.clj`)**: Periodically parses the official AUR RSS feed, performs a shallow Git clone of recently updated packages in a sandbox, and runs the scanner rules to flag backdoors in real time.
+  - **Active Defense:** Built in response to the June 2026 AUR malicious update incident to detect system persistence, dynamic downloads, and shell profile tampering.
 
 ### 🪙 Decentralized Identity & Protocol Security Research
 *Auditing core consensus engines and peer-to-peer designs to architect decentralized identity primitives.*
