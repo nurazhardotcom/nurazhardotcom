@@ -130,12 +130,27 @@ I apply a hybrid, security-first software development life cycle tailored for sp
   - **Resiliency:** Programmatic recovery, transactional boundary enforcement, and granular telemetry.
 
 ### 🛡️ [aur-audit](https://github.com/nurazhardotcom/aur-audit)
-*A static analysis security auditing tool designed to inspect AUR PKGBUILD and install scripts for indicators of compromise (IoC) and system manipulation hooks.*
+*A Clojure/Babashka static analysis tool to audit AUR PKGBUILDs for backdoors, persistence hooks, and indicators of compromise (IoC). Built in direct response to the June 2026 AUR malicious package incident.*
 - **Tech Stack:** Clojure, Babashka, shell integration.
 - **Architectural Highlights:**
   - **Zero-Dependency Scripting:** Executed via Babashka with near-instant startup, suitable for integration into CLI package update hooks (`paru`).
   - **Threat Intelligence Monitor (`aur-monitor.clj`)**: Periodically parses the official AUR RSS feed, performs a shallow Git clone of recently updated packages in a sandbox, and runs the scanner rules to flag backdoors in real time.
-  - **Active Defense:** Built in response to the June 2026 AUR malicious update incident to detect system persistence, dynamic downloads, and shell profile tampering.
+  - **Active Defense:** Detects system persistence, dynamic downloads, obfuscation, piped execution, environment hijacking, and shell profile tampering.
+
+### 📝 [blog.nurazhar.com](https://blog.nurazhar.com)
+*A static technical blog built with quickblog (Clojure/Babashka) on GitHub Pages, with a decoupled zero-cost analytics engine.*
+- **Tech Stack:** Clojure (Babashka/quickblog), GitHub Pages, GCP Cloud Function, Neon Postgres.
+- **Architectural Highlights:**
+  - **Zero-Cost Analytics:** Fully isolated tracking system — stateless Cloud Function writes to a dedicated Neon Postgres instance, completely decoupled from the static site.
+  - **24 Posts & Counting:** Covers Linux security, agentic AI, Clojure, Bitcoin protocol research, and DevOps.
+  - **Mermaid-Native:** All diagrams rendered client-side via Mermaid.js — no image assets needed.
+
+### 🎯 [career-ops](https://github.com/nurazhardotcom/career-ops)
+*AI-powered job search system with 14 skill modes, Go dashboard, PDF generation, and batch processing.*
+- **Tech Stack:** JavaScript, Go, Claude Code integration.
+- **Architectural Highlights:**
+  - **14 Skill Modes:** Specialized agents for different job search tasks.
+  - **Batch Processing:** Automated pipeline for resume customization and application tracking.
 
 ### 🪙 Decentralized Identity & Protocol Security Research
 *Auditing core consensus engines and peer-to-peer designs to architect decentralized identity primitives.*
