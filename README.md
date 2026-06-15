@@ -137,6 +137,14 @@ I apply a hybrid, security-first software development life cycle tailored for sp
   - **Threat Intelligence Monitor (`aur-monitor.clj`)**: Periodically parses the official AUR RSS feed, performs a shallow Git clone of recently updated packages in a sandbox, and runs the scanner rules to flag backdoors in real time.
   - **Active Defense:** Detects system persistence, dynamic downloads, obfuscation, piped execution, environment hijacking, and shell profile tampering.
 
+### 🇸🇬 [lithan-dev-sandbox](https://github.com/nurazhardotcom/lithan-dev-sandbox)
+*A zero-configuration, user-space developer sandbox for Lithan Academy full-stack web development students running Django and React on Windows 11.*
+- **Tech Stack:** Clojure, Babashka, PowerShell, winget, Python, Node.js, Mermaid.js.
+- **Architectural Highlights:**
+  - **Zero-Administrator Privilege Model:** Bypasses local security blocks by installing all dependencies strictly in the user's `%USERPROFILE%\AppData\Local\Programs` scope using Microsoft's `winget` manager, eliminating the need for elevated UAC prompts.
+  - **Concurrence & Auto-Updates:** Uses Babashka (`run.clj`) to concurrently orchestrate Django and React local server processes, automatically stashing student code files to pull updates from upstream Git sources without conflicts.
+  - **Context-Aware AI Tutoring:** Compiles the localized codebase into a lightweight context dump, enabling students to feed clean environment mappings directly into LLM assistants.
+
 ### 📝 [blog.nurazhar.com](https://blog.nurazhar.com)
 *A static technical blog built with quickblog (Clojure/Babashka) on GitHub Pages, with a decoupled zero-cost analytics engine.*
 - **Tech Stack:** Clojure (Babashka/quickblog), GitHub Pages, GCP Cloud Function, Neon Postgres.
