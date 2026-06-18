@@ -45,8 +45,8 @@
 ### 🎵 [lagu-lagu](https://github.com/nurazhardotcom/lagu-lagu)
 **Serverless royalty settlement engine (SG/SEA):** HTMX + GCP Cloud Functions + Neon Postgres (RLS, triggers) + Tazapay (PayNow/QRIS/GCash) + BSV notary. 80/20 split via DB triggers. *Serverless, payments, data integrity, SEA fintech*
 
-### 📈 [sol-de-tracker](https://github.com/nurazhardotcom/sol-de-tracker)
-**High-frequency market data pipeline:** Python + SQLite/PostgreSQL, schema normalization, transactional recovery, automated monitoring. *Data engineering, resiliency, schema design*
+### 📈 [bsv-de-tracker](https://github.com/nurazhardotcom/sol-de-tracker)
+**High-frequency BSV market data pipeline:** Clojure/Babashka + SQLite, CoinGecko API integration, zero external dependencies, automated cron scheduling. Originally Python, rewritten in Babashka — [blog post](https://blog.nurazhar.com/posts/2026-06-18-python-to-babashka-etl-rewrite.html). *Data engineering, Clojure, ETL, schema design*
 
 ### 🇸🇬 [lithan-dev-sandbox](https://github.com/nurazhardotcom/lithan-dev-sandbox)
 **Windows user-space DevEx automation:** PowerShell + Babashka + winget. Zero-admin install, concurrent Django/React orchestration, Git sync, LLM context dump for AI tutoring. *Endpoint management, DevEx tooling, automation*
