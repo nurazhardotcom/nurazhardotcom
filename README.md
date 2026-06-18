@@ -2,7 +2,7 @@
 
 **Senior IT Security Operations Engineer | CyberArk PAM & M365 Identity Specialist**
 
-*Singapore Citizen | Immediate Availability
+*Singapore Citizen | Immediate Availability | SC-200 / PAM-CERT In Progress*
 
 *Singapore | career@nurazhar.com | [linkedin.com/in/nur-azhar](https://linkedin.com/in/nur-azhar)*
 
