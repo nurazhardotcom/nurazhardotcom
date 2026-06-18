@@ -19,7 +19,7 @@
 | **Data Security / Database Auditing** | IBM Guardium — activity monitoring, sensitive data discovery, compliance reporting (Cat-2 env) |
 | **Network Access Control** | Aruba ClearPass, Cisco VPN — RADIUS/TACACS+, guest/device profiling |
 
-**Clearance:** ICA Category-2 (Official Secrets Act) — Defence Collective environment
+**Clearance:** ICA Category-2 (Official Secrets Act)
 
 ---
 
