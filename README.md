@@ -1,175 +1,66 @@
-# 👋 Hi, I'm Nur Azhar  
-**High-Ground Infrastructure & Agentic AI Architect**  
-*Immediate Placement Target: Forward-Deployed / Solutions Engineering | Available Aug 3, 2026*  
-*Singapore Citizen | H-1B1 Visa Eligible (Frictionless US Placement)*  
-*Singapore | career@nurazhar.com | [blog.nurazhar.com](https://blog.nurazhar.com) | [linkedin.com/in/nur-azhar](https://linkedin.com/in/nur-azhar)*  
+# 👋 Hi, I'm Nur Azhar
 
-```mermaid
-graph TD
-    classDef security fill:#1e1e2e,stroke:#f38ba8,stroke-width:2px,color:#cdd6f4;
-    classDef web fill:#1e1e2e,stroke:#89b4fa,stroke-width:2px,color:#cdd6f4;
-    classDef agentic fill:#1e1e2e,stroke:#a6e3a1,stroke-width:2px,color:#cdd6f4;
-    classDef core fill:#11111b,stroke:#f9e2af,stroke-width:3px,color:#cdd6f4;
+**Senior IT Security Operations Engineer | CyberArk PAM & M365 Identity Specialist**
 
-    A[Security & Access Governance]:::security --> D(Secure Agentic Architectures):::core
-    B[Modern Full-Stack Engineering]:::web --> D
-    C[Agentic AI & Context Engineering]:::agentic --> D
+*Singapore Citizen | Immediate Availability | SC-200 / PAM-CERT In Progress*
 
-    subgraph Security Depth
-        A1[CyberArk PAM / PVWA / PSM]:::security
-        A2[Air-Gapped Network Enclaves]:::security
-        A3[Identity Providers & MFA]:::security
-    end
-
-    subgraph Full-Stack Engine
-        B1[Django / React / Bootstrap]:::web
-        B2[MySQL / SQL Normalization]:::web
-        B3[Agile SDLC Frameworks]:::web
-    end
-
-    subgraph Agentic Innovation
-        C1[Deterministic JSON Contracts]:::agentic
-        C2[Local Multi-Agent Runtimes]:::agentic
-        C3[Context Window Optimization]:::agentic
-    end
-
-    A1 -.-> A
-    A2 -.-> A
-    A3 -.-> A
-
-    B1 -.-> B
-    B2 -.-> B
-    B3 -.-> B
-
-    C1 -.-> C
-    C2 -.-> C
-    C3 -.-> C
-```
+*Singapore | career@nurazhar.com | [linkedin.com/in/nur-azhar](https://linkedin.com/in/nur-azhar)*
 
 ---
 
-## 🚀 The Deterministic Anchor
+## 🔐 Core Expertise (7 Years, Defence/Enterprise)
 
-I bridge the gap between autonomous AI agents, modern web architectures, and low-level, high-security infrastructure. My engineering foundation combines **7+ years of mission-critical depth** managing Privileged Access Management (PAM), CyberArk (PVWA/PSM), and air-gapped system governance within **National Defense Heritage & Mission-Critical Infrastructure** environments (Cat-2 / Official Secrets Act), reinforced by recent **Full Stack Web Development specialization at Lithan Academy (graduating late July 2026)**.
+| Domain | Tools & Scope |
+|---|---|
+| **Privileged Access Management** | CyberArk PVWA/PSM/CPM — policy design, safe deployment, break-glass procedures, 4,000+ endpoints |
+| **Identity & Access (M365/Entra ID)** | Conditional Access, PIM, Entra ID Protection, Purview Compliance, Phishing-resistant MFA (FIDO2/Passkeys) |
+| **Endpoint Detection & Response** | Carbon Black EDR (VMware) — daily ops, policy tuning, threat hunting, 4,000+ endpoints at ICA |
+| **Vulnerability Management** | Tenable.sc / Tenable.io — scanning, remediation tracking, risk-based prioritization |
+| **Data Security / Database Auditing** | IBM Guardium — activity monitoring, sensitive data discovery, compliance reporting (Cat-2 env) |
+| **Network Access Control** | Aruba ClearPass, Cisco VPN — RADIUS/TACACS+, guest/device profiling |
 
-In the era of autonomous software, I treat AI agents as untrusted processes. I apply hardened network isolation concepts, deterministic data contracts, and decentralized identity protocols (including Bitcoin-native UTXO architectures) to secure agentic runtimes, prevent prompt injection/escape, and enforce strict execution boundaries.
-
----
-
-## 🛠️ Technical Stack & Architecture
-
-<table>
-  <tr>
-    <td valign="top" width="50%">
-      <h3>🔐 Identity & Access Governance</h3>
-      <ul>
-        <li><b>Privileged Access Management:</b> CyberArk PVWA/PSM design, access policies</li>
-        <li><b>Network Access Control:</b> Aruba ClearPass (NAC), Cisco VPN gateway policies</li>
-        <li><b>Identity & Credentials:</b> Microsoft Entra ID, RSA SecurID, Phishing-resistant MFA (Passkeys / FIDO2)</li>
-        <li><b>Air-Gapped Systems:</b> Enclave isolation, secure data transit</li>
-      </ul>
-    </td>
-    <td valign="top" width="50%">
-      <h3>⚙️ Systems & Agentic Orchestration</h3>
-      <ul>
-        <li><b>Agentic AI:</b> Local-first Multi-Agent Systems, Context Engineering</li>
-        <li><b>Web Stack:</b> React, Django, Bootstrap, HTML5/CSS3, JavaScript (ES6+), jQuery</li>
-        <li><b>Core Languages:</b> Python, Rust, Go, SQL, Clojure, C++</li>
-        <li><b>Infrastructure & Cloud:</b> Linux (Arch, CachyOS, Debian), GCP, Cloudflare Serverless</li>
-        <li><b>Databases & Auditing:</b> MySQL, PostgreSQL, SQLite (normalization & guardrails)</li>
-      </ul>
-    </td>
-  </tr>
-</table>
+**Clearance:** ICA Category-2 (Official Secrets Act) — Defence Collective environment
 
 ---
 
-## 🔄 Agent-Augmented SDLC Methodology
+## 🛠️ Technical Stack
 
-I apply a hybrid, security-first software development life cycle tailored for speed and high robustness:
+**Security & Identity:** CyberArk, Microsoft Entra ID, Purview, Carbon Black EDR, Tenable, IBM Guardium, Aruba ClearPass, Cisco VPN, RSA SecurID, FIDO2/Passkeys
 
-*   **Phase 1: Conceptual Design & Data Modeling**
-    *   Developing Entity Relationship Diagrams (ERDs) and normalizing database schemas (MySQL/PostgreSQL) to avoid data redundancy and write bottlenecks.
-    *   Threat modeling system entrypoints and user flow scenarios using UML schemas.
-*   **Phase 2: High-Speed Agentic Synthesis**
-    *   Utilizing advanced agentic IDE workflows (Cursor, custom CLI agents) to synthesize clean, functional modules (Django backends, React frontends) at high bandwidth.
-    *   Drafting comprehensive unit and integration tests concurrently with code creation.
-*   **Phase 3: Security Hardening & Isolation**
-    *   Applying OWASP Top-10 defensive coding practices to web interfaces and APIs.
-    *   Securing agent runtimes by parsing API inputs through strict, deterministic JSON-schema contract boundaries.
-*   **Phase 4: Orchestration & Deployment**
-    *   Packaging web services into lightweight Docker containers or managing virtual machines for reliable multi-environment staging.
-    *   Establishing secure audit telemetry, database migrations, and operational backups.
+**OS & Scripting:** Linux (Arch, CachyOS, Debian), Windows Server, PowerShell, Bash, Python, Clojure/Babashka
+
+**Cloud & Infrastructure:** GCP (Cloud Functions, Serverless), Cloudflare, Docker, GitHub Actions, Tailscale
+
+**Databases:** PostgreSQL, MySQL, SQLite — normalization, RLS, triggers, audit logging
+
+**Development:** React, Django, HTMX, HTML5/CSS3, JavaScript (ES6+), Mermaid.js, Typst
 
 ---
 
-## 📂 Selected Systems & Frameworks
-
-### 🧠 [Local-First Multi-Agent Orchestration & Context Engineering Framework](https://github.com/nurazhardotcom/headhunter-agent)
-*A privacy-preserving, local-first Multi-Agent System (MAS) built to orchestrate unstructured data processing and compilation.*
-- **Tech Stack:** Python, Rust (native bindings for high-performance token/context manipulation), Typst, Gemini API.
-- **Architectural Highlights:**
-  - **Deterministic Data Contracts:** Hard JSON schemas ensuring state transitions between agents remain predictable.
-  - **Privacy-by-Design:** Orchestrates sensitive personal context locally without raw data leaking to third-party endpoints.
-  - **Pipeline Synthesis:** 3-stage agentic engine executing profile tokenization, typst resume compilation, and pre-interview strategic mapping.
-
-### 🎵 [lagu-lagu](https://github.com/nurazhardotcom/lagu-lagu)
-*A "No-Backend" stateless payout registry and direct settlement engine for independent musicians in Southeast Asia.*
-- **Tech Stack:** HTML5, HTMX, GCP Cloud Function (Node.js), Neon Serverless Postgres (PL/pgSQL triggers, RLS), Tazapay API, BSV Notary Ledger.
-- **Architectural Highlights:**
-  - **Stateless Cloud Proxy:** Deletes heavy application server deployments, using a stateless GCP Cloud Function proxy to secure DB connections, handle external webhooks, and serve dynamic HTML templates.
-  - **Declarative Database Rules:** Automatically executes the **80/20 royalty split** natively in Postgres via database triggers upon payment insertion.
-  - **Stateless Notary Commits:** Commits Merkle root payment proofs to a public ledger (BSV) for $0.0001 per hash to establish clean title and shield artists from collective licensing (CMO) claims.
-  - **Low-Toll E-Wallet Clearing:** Routes micro-payments from local e-wallets (PayNow, GCash) to artist wallets instantly via Tazapay, bypassing high credit card fees.
-
-### 📈 [sol-de-tracker](https://github.com/nurazhardotcom/sol-de-tracker)
-*A structured Data Engineering pipeline designed for real-time extraction and transactional reliability.*
-- **Tech Stack:** Python, SQLite/PostgreSQL, Public APIs, automated workflows.
-- **Architectural Highlights:** 
-  - **Data Integrity:** Strict normalization schemas to ensure zero-loss storage of volatile market data.
-  - **Resiliency:** Programmatic recovery, transactional boundary enforcement, and granular telemetry.
+## 📂 Pinned Projects
 
 ### 🛡️ [aur-audit](https://github.com/nurazhardotcom/aur-audit)
-*A Clojure/Babashka static analysis tool to audit AUR PKGBUILDs for backdoors, persistence hooks, and indicators of compromise (IoC). Built in direct response to the June 2026 AUR malicious package incident.*
-- **Tech Stack:** Clojure, Babashka, shell integration.
-- **Architectural Highlights:**
-  - **Zero-Dependency Scripting:** Executed via Babashka with near-instant startup, suitable for integration into CLI package update hooks (`paru`).
-  - **Threat Intelligence Monitor (`aur-monitor.clj`)**: Periodically parses the official AUR RSS feed, performs a shallow Git clone of recently updated packages in a sandbox, and runs the scanner rules to flag backdoors in real time.
-  - **Active Defense:** Detects system persistence, dynamic downloads, obfuscation, piped execution, environment hijacking, and shell profile tampering.
+**Supply chain security scanner for Arch PKGBUILDs** — detects backdoors, persistence hooks, obfuscation, piped execution, environment hijacking. Built in response to June 2026 AUR malicious package incident. Babashka CLI for CI/CD integration. *Clojure, Babashka, static analysis, IoC detection*
+
+### 🎵 [lagu-lagu](https://github.com/nurazhardotcom/lagu-lagu)
+**Serverless royalty settlement engine (SG/SEA):** HTMX + GCP Cloud Functions + Neon Postgres (RLS, triggers) + Tazapay (PayNow/QRIS/GCash) + BSV notary. 80/20 split via DB triggers. *Serverless, payments, data integrity, SEA fintech*
+
+### 📈 [sol-de-tracker](https://github.com/nurazhardotcom/sol-de-tracker)
+**High-frequency market data pipeline:** Python + SQLite/PostgreSQL, schema normalization, transactional recovery, automated monitoring. *Data engineering, resiliency, schema design*
 
 ### 🇸🇬 [lithan-dev-sandbox](https://github.com/nurazhardotcom/lithan-dev-sandbox)
-*A zero-configuration, user-space developer sandbox for Lithan Academy full-stack web development students running Django and React on Windows 11.*
-- **Tech Stack:** Clojure, Babashka, PowerShell, winget, Python, Node.js, Mermaid.js.
-- **Architectural Highlights:**
-  - **Zero-Administrator Privilege Model:** Bypasses local security blocks by installing all dependencies strictly in the user's `%USERPROFILE%\AppData\Local\Programs` scope using Microsoft's `winget` manager, eliminating the need for elevated UAC prompts.
-  - **Concurrence & Auto-Updates:** Uses Babashka (`run.clj`) to concurrently orchestrate Django and React local server processes, automatically stashing student code files to pull updates from upstream Git sources without conflicts.
-  - **Context-Aware AI Tutoring:** Compiles the localized codebase into a lightweight context dump, enabling students to feed clean environment mappings directly into LLM assistants.
+**Windows user-space DevEx automation:** PowerShell + Babashka + winget. Zero-admin install, concurrent Django/React orchestration, Git sync, LLM context dump for AI tutoring. *Endpoint management, DevEx tooling, automation*
 
-### 📝 [blog.nurazhar.com](https://blog.nurazhar.com)
-*A static technical blog built with quickblog (Clojure/Babashka) on GitHub Pages, with a decoupled zero-cost analytics engine.*
-- **Tech Stack:** Clojure (Babashka/quickblog), GitHub Pages, GCP Cloud Function, Neon Postgres.
-- **Architectural Highlights:**
-  - **Zero-Cost Analytics:** Fully isolated tracking system — stateless Cloud Function writes to a dedicated Neon Postgres instance, completely decoupled from the static site.
-  - **24 Posts & Counting:** Covers Linux security, agentic AI, Clojure, Bitcoin protocol research, and DevOps.
-  - **Mermaid-Native:** All diagrams rendered client-side via Mermaid.js — no image assets needed.
+---
 
-### 🎯 [career-ops](https://github.com/nurazhardotcom/career-ops)
-*AI-powered job search system with 14 skill modes, Go dashboard, PDF generation, and batch processing.*
-- **Tech Stack:** JavaScript, Go, Claude Code integration.
-- **Architectural Highlights:**
-  - **14 Skill Modes:** Specialized agents for different job search tasks.
-  - **Batch Processing:** Automated pipeline for resume customization and application tracking.
+## 📝 Technical Writing
 
-### 🪙 Decentralized Identity & Protocol Security Research
-*Auditing core consensus engines and peer-to-peer designs to architect decentralized identity primitives.*
-- **[bsv-clj](https://github.com/nurazhardotcom/bsv-clj):** A Clojure toolkit exploring the immutable UTXO model. Built an idiomatic JSON-RPC client, read-only wallet module, and a Ring/Hiccup explorer. Illustrates the synergy between immutable ledger state and functional, data-oriented language design.
-- **[bitcoin](https://github.com/nurazhardotcom/bitcoin):** Researching original P2P consensus, transaction verification scripts, and memory-safe validation rules in the core C++ codebase.
-- **[Bitcoin-Wallet](https://github.com/nurazhardotcom/Bitcoin-Wallet):** Security audit of lightweight client structures (ElectrumSV) targeting cryptographic key isolation, transaction signatures, and server synchronization models.
+[blog.nurazhar.com](https://blog.nurazhar.com) — 24+ posts on Linux security, agentic AI, Clojure, Bitcoin protocol, DevOps. *Recent focus: PAM hardening, Entra ID Conditional Access, EDR tuning, vulnerability prioritization.*
 
 ---
 
 ## 📫 Contact & Verification
+
 - **LinkedIn:** [linkedin.com/in/nur-azhar](https://linkedin.com/in/nur-azhar)
 - **Email:** career@nurazhar.com
-- **Core Node:** [nurazhar.com](https://nurazhar.com)
-- **Digital Garden (Blog):** [blog.nurazhar.com](https://blog.nurazhar.com)
+- **Blog:** [blog.nurazhar.com](https://blog.nurazhar.com)
