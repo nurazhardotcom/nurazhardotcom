@@ -16,7 +16,7 @@ Single binary, ~2 ms startup, one user, one machine, single audit trail.
 - Skills as procedural memory (EDN + auto-evolution)
 - Sub-agent delegation by spawning more `bb` processes
 
-Read the build log: [blog.nurazhar.com — *Building an AI Butler*](https://blog.nurazhar.com/posts/building-an-ai-butler.html).
+Read the build log: [blog.nurazhar.com — *Building an AI Butler*](https://blog.nurazhar.com/building-an-ai-butler.html).
 
 ```text
  ┌─ CLI ─┐
