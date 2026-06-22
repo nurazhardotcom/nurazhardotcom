@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Nur Azhar
 
-**IT Infrastructure & Security Engineer (7+ yr, Defence/Gov) | Clojure/BSV Protocol Engineering | Building AI Agent Infrastructure**
+**IT Infrastructure & Security Engineer | Systems Architecture | Functional-First Software**
 
 *Singapore Citizen | Available Aug 2026*
 
