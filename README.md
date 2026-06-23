@@ -1,5 +1,7 @@
 # Nur Azhar
 
+> **I've moved to [gitlab.com/nurazhar](http://gitlab.com/nurazhar).** This repo is kept for archival purposes.
+
 > Turning myself into my own tools to achieve my own compute.
 > Same shape as an Emacs user building their `.emacs` over decades;
 > different substrate.
