@@ -1,3 +1,4 @@
-# Nur Azhar
+<h1 align="center">Nur Azhar</h1>
 
-> **I've moved to [gitlab.com/nurazhar](http://gitlab.com/nurazhar).** This repo is kept for archival purposes.
+> [!IMPORTANT]
+> **I've moved to [gitlab.com/nurazhar](https://gitlab.com/nurazhar).** This repository is kept for archival purposes.
