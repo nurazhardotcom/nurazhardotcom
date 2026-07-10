@@ -37,7 +37,6 @@ sovereign compute, and software that respects the user.
 | Project | What it is | Stack |
 |---|---|---|
 | [`llm-orchestration-clj`](https://github.com/nurazhardotcom/llm-orchestration-clj) | Data-oriented LLM orchestration demo — prompts as values, pure transforms, one side-effect | Babashka, ~80 lines |
-| [`headhunter-agent`](https://github.com/nurazhardotcom/headhunter-agent) | Local-first multi-agent system (MAS) for candidate profiling & interview prep — desktop GUI, no cloud | Clojure, cljfx |
 | [`aur-audit`](https://github.com/nurazhardotcom/aur-audit) | Supply-chain security scanner for Arch AUR PKGBUILDs — detects backdoors & obfuscation | Babashka, static analysis |
 | [`pdpa-sg-clj`](https://github.com/nurazhardotcom/pdpa-sg-clj) | 🇸🇬 Singapore PDPA compliance toolkit for AI agents — read README, tick checklist, done | Clojure, Babashka |
 | [`bsv-clj`](https://github.com/nurazhardotcom/bsv-clj) | Toolkit for exploring Bitcoin's original v0.1 protocol — RPC client, wallet, block explorer | Clojure |
