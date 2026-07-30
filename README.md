@@ -3,7 +3,6 @@
 <p align="center">
   <a href="https://nurazhar.com">🌐 Blog</a> ·
   <a href="https://gitlab.com/nurazhar">🦊 GitLab</a> ·
-  <a href="https://nurazhar.com">📄 CV</a>
 </p>
 
 ---
