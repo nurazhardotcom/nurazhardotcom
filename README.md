@@ -1,16 +1,12 @@
 <h1 align="center">Nur Azhar</h1>
 <p align="center"><strong>IT Infrastructure & Security Specialist · Singapore</strong></p>
 <p align="center">
-  <a href="https://nurazhar.com">🌐 Blog</a> ·
-  <a href="https://gitlab.com/nurazhar">🦊 GitLab</a> ·
+  <a href="https://nurazhar.com">🌐 Blog</a>
 </p>
 
 ---
 
 Singapore-based IT infrastructure and security specialist with 7+ years of production experience across government-adjacent and enterprise environments. Specializes in compliance-as-code, supply-chain security scanning, and deterministic automation tooling.
-
-> **Note:** my primary development home is [github.com/nurazhardotcom](https://github.com/nurazhardotcom).
-> Public repos here are the discoverable ones; private project work stays private.
 
 ### Selected Projects
 
