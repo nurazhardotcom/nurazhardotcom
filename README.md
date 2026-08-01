@@ -9,8 +9,8 @@
 
 Singapore-based IT infrastructure and security specialist with 7+ years of production experience across government-adjacent and enterprise environments. Specializes in compliance-as-code, supply-chain security scanning, and deterministic automation tooling.
 
-> **Note:** my primary development home is [gitlab.com/nurazhar](https://gitlab.com/nurazhar).
-> These mirrors exist for discoverability where recruiters look. Both stay in sync.
+> **Note:** my primary development home is [github.com/nurazhardotcom](https://github.com/nurazhardotcom).
+> Public repos here are the discoverable ones; private project work stays private.
 
 ### Selected Projects
 
@@ -27,4 +27,4 @@ Singapore-based IT infrastructure and security specialist with 7+ years of produ
 
 ### Contact
 
-Site: [nurazhar.com](https://nurazhar.com) · Primary dev: [gitlab.com/nurazhar](https://gitlab.com/nurazhar)
+Site: [nurazhar.com](https://nurazhar.com) · Primary dev: [github.com/nurazhardotcom](https://github.com/nurazhardotcom)
