@@ -12,23 +12,13 @@
 
 ### About
 
-I am an **identity and security systems practitioner** with 7+ years of enterprise infrastructure, IAM/PAM, and security operations experience across government-adjacent critical environments in Singapore. My operational foundation includes **CyberArk PAM, Active Directory, Entra ID, regulated infrastructure, and CyberTrust Mark / ISO 27001 ISMS delivery**.
+I am an **identity and security systems practitioner** with 7+ years of enterprise infrastructure, IAM/PAM, and security operations experience across regulated, high-availability environments in Singapore. My operational foundation includes **CyberArk PAM, Active Directory, Entra ID, regulated infrastructure, and CyberTrust Mark / ISO 27001 ISMS delivery**.
 
 My current work turns the durable identity problems—**authentication, authorization, privilege, delegation, and auditability**—into deterministic, inspectable automation using **Clojure, Babashka, EDN, OPA/Rego, and CI/CD controls**.
 
-### The direction
+### Current technical direction
 
-```text
-enterprise IAM/PAM experience
-        → identity primitives
-        → declarative policy
-        → agent-gated execution
-        → short-lived scoped access
-        → revocation and audit evidence
-        → workload and AI-agent identity
-```
-
-This is a learning-and-building loop, not a claim of finished product maturity. The implementation is maintained separately in a private engineering workspace.
+I am extending this foundation into **workload identity and controlled automation**: making access explicit, time-bounded, revocable, and auditable as systems become more distributed.
 
 ### Selected open-source repositories
 
@@ -44,13 +34,13 @@ This is a learning-and-building loop, not a claim of finished product maturity. 
 ### Capability foundation
 
 - **IAM/PAM:** CyberArk vaulting and session recording; Active Directory and Entra ID; least-privilege access control.
-- **Security operations:** IBM Guardium DAM, Carbon Black EDR, Tenable Nessus, critical-infrastructure support.
+- **Security operations:** IBM Guardium DAM, Carbon Black EDR, Tenable Nessus, high-availability infrastructure support.
 - **Compliance:** CSA CyberTrust Mark Promoter Tier delivery; ISO 27001 Annex A ISMS execution.
 - **Automation:** Clojure/Babashka, EDN, OPA/Rego, Python/Bash, GitHub Actions, GitLab CI, Linux, containers.
 
 ### Research
 
-Technical writing and architecture notes are published at [**nurazhar.com**](https://nurazhar.com), including [Agentic AI Security](https://nurazhar.com/agentic-ai-security.html), [Replacing Imperative Scan Code with Rego](https://nurazhar.com/rego-replaces-clojure-iam.html), and the [full archive](https://nurazhar.com/archive.html).
+Technical writing and architecture notes are published at [**nurazhar.com**](https://nurazhar.com), including [secure automation and agentic systems](https://nurazhar.com/agentic-ai-security.html), [Replacing Imperative Scan Code with Rego](https://nurazhar.com/rego-replaces-clojure-iam.html), and the [full archive](https://nurazhar.com/archive.html).
 
 ### Contact
 
