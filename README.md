@@ -28,9 +28,9 @@ enterprise IAM/PAM experience
         → workload and AI-agent identity
 ```
 
-This is a learning-and-building loop, not a claim of finished product maturity. The code is deliberately public so the control logic can be inspected, tested, and improved. The implementation is maintained separately in a private engineering workspace.
+This is a learning-and-building loop, not a claim of finished product maturity. The implementation is maintained separately in a private engineering workspace.
 
-### Selected projects
+### Selected open-source repositories
 
 | Repository | What it demonstrates |
 |---|---|
@@ -38,6 +38,8 @@ This is a learning-and-building loop, not a claim of finished product maturity. 
 | 🛡️ [**security-tools**](https://github.com/nurazhardotcom/security-tools) | Babashka/Clojure security automation for findings, access reviews, PAM requests, and IAM workflows. |
 | 🔒 [**pdpa-sg-clj**](https://github.com/nurazhardotcom/pdpa-sg-clj) | Singapore PDPA and secret-exposure scanning for repositories and pipelines. |
 | 🧪 [**aur-audit**](https://github.com/nurazhardotcom/aur-audit) | Linux supply-chain inspection for obfuscated payloads and suspicious build behavior. |
+| 🇸🇬 [**mcpf-adapter**](https://github.com/nurazhardotcom/mcpf-adapter) | Babashka CLI for structured Singapore MyCareersFuture job data. |
+
 
 ### Capability foundation
 
