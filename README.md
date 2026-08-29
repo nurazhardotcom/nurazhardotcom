@@ -1,5 +1,5 @@
 <h1 align="center">Nur Azhar</h1>
-<p align="center"><strong>Senior SecOps & Identity Operations Specialist — PAM · CyberTrust ISMS (ISO 27001 Annex A) · Policy-as-Code & Zero-Dependency Compliance Automation</strong></p>
+<p align="center"><strong>Identity & Security Systems Practitioner — IAM/PAM · Security Automation · Human, Workload & Agent Access</strong></p>
 
 <p align="center">
   <a href="https://nurazhar.com"><img src="https://img.shields.io/badge/Website-nurazhar.com-005500?style=flat-square&logo=firefox" alt="Website" /></a>
@@ -12,11 +12,31 @@
 
 ### 🛡️ About Me
 
-**Senior SecOps & Identity Operations Specialist** with **over 7 years** of enterprise infrastructure, identity governance (IAM/PAM), and security operations experience across government-sector critical environments (HTX/ICA, DCS, NEC). Delivered **CSA CyberTrust Mark certification (Promoter Tier)** as sole ISMS Lead — executed the consultant-designed ISMS internally across **7 Annex A control domains** — and operated enterprise **CyberArk PAM** vaults in production government environments.
+**Identity and security systems practitioner** with **7+ years** of enterprise infrastructure, IAM/PAM, and security operations experience across government-sector critical environments (HTX/ICA, DCS, NEC). Delivered **CSA CyberTrust Mark certification (Promoter Tier)** as sole ISMS Lead — executed the consultant-designed ISMS internally across **7 Annex A control domains** — and operated enterprise **CyberArk PAM** vaults in production government environments.
 
-**Focus:** **policy-as-code** (OPA/Rego gates enforcing IAM controls in CI), **zero-dependency compliance automation** (Babashka/Clojure, Python/Bash), **IAM/PAM operations** (CyberArk, Active Directory/Entra ID RBAC), and **CI/CD pipeline security**.
+**Current direction:** turning identity principles—authentication, authorization, privilege, delegation, and auditability—into deterministic automation. **Foundation:** **policy-as-code** (OPA/Rego gates enforcing IAM controls in CI), **zero-dependency compliance automation** (Babashka/Clojure, Python/Bash), **IAM/PAM operations** (CyberArk, Active Directory/Entra ID RBAC), and **CI/CD pipeline security**.
 
 ---
+
+### 🔁 The Identity Control Loop
+
+This portfolio is one deliberate progression—not unrelated projects:
+
+```text
+enterprise IAM/PAM experience
+        → identity primitives
+        → declarative Clojure/EDN policy
+        → agent-gated execution
+        → short-lived, scoped access
+        → revocation and audit evidence
+        → workload and AI-agent identity
+```
+
+The open-source code is the proof layer. Paid value comes from implementation, integration, deployment, policy design, support, and operating identity controls in real environments.
+
+| Foundation | Direction |
+|---|---|
+| CyberArk PAM · Active Directory · Entra ID · regulated operations | Security automation · workload identity · non-human identity · AI-agent authorization |
 
 ### 🔬 Featured Open-Source Repositories
 
@@ -49,3 +69,6 @@ The site is fully LLM-readable ([`llms.txt`](https://nurazhar.com/llms.txt), [`l
 - **Policy-as-Code & Pipeline Security:** OPA/Rego deny-set policies validating Terraform-plan IAM output; GitHub Actions security gates; GitLab CI integration.
 - **Security Compliance & Frameworks:** ISO 27001 Annex A ISMS Delivery, CSA CyberTrust Mark Promoter Tier, IBM Guardium DAM, Carbon Black EDR, Tenable Nessus.
 - **Developer Tooling:** Zero-dependency CLI scanners (Babashka/Clojure, Python/Bash), ripgrep-backed static analysis, REST/gRPC.
+
+---
+
