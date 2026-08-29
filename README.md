@@ -1,5 +1,5 @@
 <h1 align="center">Nur Azhar</h1>
-<p align="center"><strong>Identity & Security Systems Practitioner — IAM/PAM · Security Automation · Human, Workload & Agent Access</strong></p>
+<p align="center"><strong>Identity & Security Systems Practitioner · IAM/PAM · Security Automation</strong></p>
 
 <p align="center">
   <a href="https://nurazhar.com"><img src="https://img.shields.io/badge/Website-nurazhar.com-005500?style=flat-square&logo=firefox" alt="Website" /></a>
@@ -10,65 +10,50 @@
 
 ---
 
-### 🛡️ About Me
+### About
 
-**Identity and security systems practitioner** with **7+ years** of enterprise infrastructure, IAM/PAM, and security operations experience across government-sector critical environments (HTX/ICA, DCS, NEC). Delivered **CSA CyberTrust Mark certification (Promoter Tier)** as sole ISMS Lead — executed the consultant-designed ISMS internally across **7 Annex A control domains** — and operated enterprise **CyberArk PAM** vaults in production government environments.
+I am an **identity and security systems practitioner** with 7+ years of enterprise infrastructure, IAM/PAM, and security operations experience across government-adjacent critical environments in Singapore. My operational foundation includes **CyberArk PAM, Active Directory, Entra ID, regulated infrastructure, and CyberTrust Mark / ISO 27001 ISMS delivery**.
 
-**Current direction:** turning identity principles—authentication, authorization, privilege, delegation, and auditability—into deterministic automation. **Foundation:** **policy-as-code** (OPA/Rego gates enforcing IAM controls in CI), **zero-dependency compliance automation** (Babashka/Clojure, Python/Bash), **IAM/PAM operations** (CyberArk, Active Directory/Entra ID RBAC), and **CI/CD pipeline security**.
+My current work turns the durable identity problems—**authentication, authorization, privilege, delegation, and auditability**—into deterministic, inspectable automation using **Clojure, Babashka, EDN, OPA/Rego, and CI/CD controls**.
 
----
-
-### 🔁 The Identity Control Loop
-
-This portfolio is one deliberate progression—not unrelated projects:
+### The direction
 
 ```text
 enterprise IAM/PAM experience
         → identity primitives
-        → declarative Clojure/EDN policy
+        → declarative policy
         → agent-gated execution
-        → short-lived, scoped access
+        → short-lived scoped access
         → revocation and audit evidence
         → workload and AI-agent identity
 ```
 
-The open-source code is the proof layer. Paid value comes from implementation, integration, deployment, policy design, support, and operating identity controls in real environments.
+This is a learning-and-building loop, not a claim of finished product maturity. The code is deliberately public so the control logic can be inspected, tested, and improved. The implementation is maintained separately in a private engineering workspace.
 
-| Foundation | Direction |
+### Selected projects
+
+| Repository | What it demonstrates |
 |---|---|
-| CyberArk PAM · Active Directory · Entra ID · regulated operations | Security automation · workload identity · non-human identity · AI-agent authorization |
+| 🚦 [**identity-policy-as-code**](https://github.com/nurazhardotcom/identity-policy-as-code) | OPA/Rego IAM gates over Terraform plans, denying wildcard permissions and unsafe inline policies. |
+| 🛡️ [**security-tools**](https://github.com/nurazhardotcom/security-tools) | Babashka/Clojure security automation for findings, access reviews, PAM requests, and IAM workflows. |
+| 🔒 [**pdpa-sg-clj**](https://github.com/nurazhardotcom/pdpa-sg-clj) | Singapore PDPA and secret-exposure scanning for repositories and pipelines. |
+| 🧪 [**aur-audit**](https://github.com/nurazhardotcom/aur-audit) | Linux supply-chain inspection for obfuscated payloads and suspicious build behavior. |
 
-### 🔬 Featured Open-Source Repositories
+### Capability foundation
 
-| Repository | Focus & Description |
-|---|---|
-| 🚦 [**`identity-policy-as-code`**](https://github.com/nurazhardotcom/identity-policy-as-code) | **OPA/Rego IAM Security Gate** — denies wildcard IAM permissions and inline policies over normalized Terraform-plan input. Dual-fixture verified (vulnerable denied / clean allowed), enforced by GitHub Actions on every push. |
-| 🛡️ [**`security-tools`**](https://github.com/nurazhardotcom/security-tools) | **Zero-Dependency Compliance & IAM Automation Toolkit** — 6 assistants: vulnerability prioritiser, findings triage, IAM job matcher, access review summariser, policy-to-ticket generator, PAM request classifier. 50 tests, 175 assertions. |
-| 🔒 [**`pdpa-sg-clj`**](https://github.com/nurazhardotcom/pdpa-sg-clj) | **Singapore PDPA Compliance CLI & CI/CD Scanner** — NRIC Mod-11 static scanning, PII redaction, 11-obligation checklist. Built for AI agents. |
-| 🇸🇬 [**`mcpf-adapter`**](https://github.com/nurazhardotcom/mcpf-adapter) | **MyCareersFuture API Adapter** — zero-dependency CLI bridging Singapore MCF v2 APIs to structured job intelligence (JSONL/SQLite). |
+- **IAM/PAM:** CyberArk vaulting and session recording; Active Directory and Entra ID; least-privilege access control.
+- **Security operations:** IBM Guardium DAM, Carbon Black EDR, Tenable Nessus, critical-infrastructure support.
+- **Compliance:** CSA CyberTrust Mark Promoter Tier delivery; ISO 27001 Annex A ISMS execution.
+- **Automation:** Clojure/Babashka, EDN, OPA/Rego, Python/Bash, GitHub Actions, GitLab CI, Linux, containers.
 
----
+### Research
 
-### ✍️ Research & Writing
+Technical writing and architecture notes are published at [**nurazhar.com**](https://nurazhar.com), including [Agentic AI Security](https://nurazhar.com/agentic-ai-security.html), [Replacing Imperative Scan Code with Rego](https://nurazhar.com/rego-replaces-clojure-iam.html), and the [full archive](https://nurazhar.com/archive.html).
 
-Sustained technical publishing at [**nurazhar.com**](https://nurazhar.com) — 200+ posts on systems architecture, agent-era security, and compliance pipelines.
+### Contact
 
-| Essay | Focus |
-|---|---|
-| 🚦 [**Replacing Imperative Scan Code with Rego**](https://nurazhar.com/rego-replaces-clojure-iam.html) | Migrating IAM validation from custom scripts to declarative OPA policies |
-| 🧠 [**Cognitive Asymmetry: The Epistemic Bandwidth Bottleneck**](https://nurazhar.com/cognitive-asymmetry-epistemic-bandwidth.html) | Why abstraction capacity — not hardware access — defines the agent era divide |
-| 🛡️ [**Agentic AI Security**](https://nurazhar.com/agentic-ai-security.html) | Trust boundaries, tool integrity, and contained execution for autonomous systems |
+I am available for **IAM/PAM, identity operations, security automation, and infrastructure-security roles**.
 
-The site is fully LLM-readable ([`llms.txt`](https://nurazhar.com/llms.txt), [`llms-full.txt`](https://nurazhar.com/llms-full.txt)).
-
----
-
-### ⚙️ Core Technical Capabilities
-
-- **Identity & Access Management (IAM/PAM):** CyberArk PAM Vaulting, Session Recording, Active Directory & Entra ID, Least-Privilege RBAC.
-- **Policy-as-Code & Pipeline Security:** OPA/Rego deny-set policies validating Terraform-plan IAM output; GitHub Actions security gates; GitLab CI integration.
-- **Security Compliance & Frameworks:** ISO 27001 Annex A ISMS Delivery, CSA CyberTrust Mark Promoter Tier, IBM Guardium DAM, Carbon Black EDR, Tenable Nessus.
-- **Developer Tooling:** Zero-dependency CLI scanners (Babashka/Clojure, Python/Bash), ripgrep-backed static analysis, REST/gRPC.
-
----
-
+- Website: [nurazhar.com](https://nurazhar.com)
+- Email: [career@nurazhar.com](mailto:career@nurazhar.com)
+- LinkedIn: [linkedin.com/in/nur-azhar](https://linkedin.com/in/nur-azhar)
