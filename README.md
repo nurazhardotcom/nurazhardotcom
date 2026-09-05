@@ -25,6 +25,7 @@ I am extending this foundation into **workload identity and controlled automatio
 | Repository | What it demonstrates |
 |---|---|
 | 🚦 [**identity-policy-as-code**](https://github.com/nurazhardotcom/identity-policy-as-code) | OPA/Rego IAM gates over Terraform plans, denying wildcard permissions and unsafe inline policies. |
+| 🔍 [**idira-audit-clj**](https://github.com/nurazhardotcom/idira-audit-clj) | Babashka/Clojure PAM audit CLI: orphaned privilege, dormant accounts, missing MFA, and stale tokens via SCIM/OAuth2 APIs. |
 | 🛡️ [**security-tools**](https://github.com/nurazhardotcom/security-tools) | Babashka/Clojure security automation for findings, access reviews, PAM requests, and IAM workflows. |
 | 🔒 [**pdpa-sg-clj**](https://github.com/nurazhardotcom/pdpa-sg-clj) | Singapore PDPA and secret-exposure scanning for repositories and pipelines. |
 | 🧪 [**aur-audit**](https://github.com/nurazhardotcom/aur-audit) | Linux supply-chain inspection for obfuscated payloads and suspicious build behavior. |
@@ -40,7 +41,7 @@ I am extending this foundation into **workload identity and controlled automatio
 
 ### Research
 
-Technical writing and architecture notes are published at [**nurazhar.com**](https://nurazhar.com), including [secure automation and agentic systems](https://nurazhar.com/agentic-ai-security.html), [Replacing Imperative Scan Code with Rego](https://nurazhar.com/rego-replaces-clojure-iam.html), and the [full archive](https://nurazhar.com/archive.html).
+Technical writing and architecture notes are published at [**nurazhar.com**](https://nurazhar.com), including [secure automation and agentic systems](https://nurazhar.com/agentic-ai-security.html), [Replacing Imperative Scan Code with Rego](https://nurazhar.com/rego-replaces-clojure-iam.html), [I Built a PAM Audit CLI to Learn Identity the Hard Way](https://nurazhar.com/idira-audit-pam-cli), and the [full archive](https://nurazhar.com/archive.html).
 
 ### Contact
 
