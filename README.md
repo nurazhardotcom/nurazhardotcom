@@ -29,7 +29,7 @@ I am extending this foundation into **workload identity and controlled automatio
 | 🛡️ [**security-tools**](https://github.com/nurazhardotcom/security-tools) | Babashka/Clojure security automation for findings, access reviews, PAM requests, and IAM workflows. |
 | 🔒 [**pdpa-sg-clj**](https://github.com/nurazhardotcom/pdpa-sg-clj) | Singapore PDPA and secret-exposure scanning for repositories and pipelines. |
 | 🧪 [**aur-audit**](https://github.com/nurazhardotcom/aur-audit) | Linux supply-chain inspection for obfuscated payloads and suspicious build behavior. |
-| 🇸🇬 [**mcpf-adapter**](https://github.com/nurazhardotcom/mcpf-adapter) | Babashka CLI for structured Singapore MyCareersFuture job data. |
+| ⌨️ [**tui**](https://github.com/nurazhardotcom/tui) | Clojure TUI agent harness: OIDC passkey gate, 8h local JWT, allow-list execution, Zen proxy. AGPLv3. |
 
 
 ### Capability foundation
