@@ -20,6 +20,10 @@ My current work turns the durable identity problems—**authentication, authoriz
 
 I am extending this foundation into **workload identity and controlled automation**: making access explicit, time-bounded, revocable, and auditable as systems become more distributed.
 
+### Availability
+
+Open to remote roles across APAC/EMEA overlap — based in Singapore (SGT, UTC+8), flexible hours for CET-morning overlap, async-first (written RFCs/ADRs, 1–2 sync touches per week).
+
 ### Selected open-source repositories
 
 | Repository | What it demonstrates |
@@ -29,7 +33,7 @@ I am extending this foundation into **workload identity and controlled automatio
 | 🛡️ [**security-tools**](https://github.com/nurazhardotcom/security-tools) | Babashka/Clojure security automation for findings, access reviews, PAM requests, and IAM workflows. |
 | 🔒 [**pdpa-sg-clj**](https://github.com/nurazhardotcom/pdpa-sg-clj) | Singapore PDPA and secret-exposure scanning for repositories and pipelines. |
 | 🧪 [**aur-audit**](https://github.com/nurazhardotcom/aur-audit) | Linux supply-chain inspection for obfuscated payloads and suspicious build behavior. |
-| ⌨️ [**tui**](https://github.com/nurazhardotcom/tui) | Clojure TUI agent harness: OIDC passkey gate, 8h local JWT, allow-list execution, Zen proxy. MIT. |
+| ⌨️ [**tui**](https://github.com/nurazhardotcom/tui) | Personal prod gateway in Clojure: passkey-gated proxy in front of `opencode web`, Zen Responses API (`muse-spark-1.3-contributor-free`), dogfooded daily. MIT. |
 
 
 ### Capability foundation
